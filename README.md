@@ -21,7 +21,7 @@
 
 
 
-### Frontend  
+### Programming  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
@@ -36,7 +36,7 @@
 
 
 
-### Backend  
+### Softwares  
 <div align="center">  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
@@ -48,8 +48,12 @@
 
 </td><td valign="top" width="33%">
 
-<img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31mzy3vszvpt2g26zy3un5kgwxli&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31mzy3vszvpt2g26zy3un5kgwxli&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" align="left" style="width: 100%" />
+### Spotify  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31mzy3vszvpt2g26zy3un5kgwxli&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false" align="center" style="width: 100%" />
 
+</td></tr></table>  
+
+<br/>  
 </td></tr></table>  
 
 <br/>  
