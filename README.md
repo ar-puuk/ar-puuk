@@ -30,7 +30,27 @@
 <a href="https://www.youtube.com/user/arpuuk" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
+
+---
+ [![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp; [![alt text][4.1]][4]
+ 
+
+
+<!-- social icons-->
+
+
+[1.1]: https://www.iconsdb.com/icons/download/black-icons/twitter-4-32.png
+[2.1]: https://www.iconsdb.com/icons/download/black-icons/linkedin-4-32.png
+[3.1]: https://www.iconsdb.com/icons/download/black-icons/github-9-32.png
+[4.1]: https://www.iconsdb.com/icons/download/black-icons/youtube-4-32.png
+
+
+<!-- links to social-->
+[1]: https://twitter.com/ar-puuk
+[2]: https://www.linkedin.com/in/arpuuk/
+[3]: https://github.com/ar-puuk
+[4]: https://youtube.com/@arpuuk
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
