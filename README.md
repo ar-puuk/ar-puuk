@@ -32,26 +32,6 @@
 </a>  
 </div>
 
----
- [![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp; [![alt text][4.1]][4]
- 
-
-
-<!-- social icons-->
-
-
-[1.1]: https://www.iconsdb.com/icons/download/black-icons/twitter-4-32.png
-[2.1]: https://www.iconsdb.com/icons/download/black-icons/linkedin-4-32.png
-[3.1]: https://www.iconsdb.com/icons/download/black-icons/github-9-32.png
-[4.1]: https://www.iconsdb.com/icons/download/black-icons/youtube-4-32.png
-
-
-<!-- links to social-->
-[1]: https://twitter.com/ar-puuk
-[2]: https://www.linkedin.com/in/arpuuk/
-[3]: https://github.com/ar-puuk
-[4]: https://youtube.com/@arpuuk
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -102,6 +82,29 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ar-puuk&icon=5&color=12)](https://visitcount.itsvg.in)
+
+
+---
+[![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp; [![alt text][4.1]][4]&nbsp; [![alt text][5.1]][5]&nbsp; [![alt text][6.1]][6]&nbsp; [![alt text][7.1]][7]
+  
+<!-- social icons-->
+[1.1]: icons/twitter-4-32.png
+[2.1]: icons/linkedin-4-32.png
+[3.1]: icons/github-9-32.png
+[4.1]: icons/youtube-4-32.png
+[5.1]: icons/instagram-4-32.png
+[6.1]: icons/facebook-4-32.png
+[7.1]: icons/envelope-closed-32.png
+
+
+<!-- links to social-->
+[1]: https://twitter.com/ar-puuk
+[2]: https://www.linkedin.com/in/arpuuk/
+[3]: https://github.com/ar-puuk
+[4]: https://youtube.com/@arpuuk
+[5]: https://www.instagram.com/ar_puuk/
+[6]: https://www.facebook.com/arpuuk/
+[7]: mailto:pukar.bhandari@outlook.com
 
 <!---
 ar-puuk/ar-puuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
