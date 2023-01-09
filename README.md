@@ -44,7 +44,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" alt="Seaborn" height="75" /></a>
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="75" /></a>  
 
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="75" /></a>
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="70" /></a>
 <a href="https://www.tidyverse.org/" target="_blank"><img style="margin: 10px" src="https://www.tidyverse.org/images/hex-tidyverse.png" alt="Tidyverse" height="75" /></a>
 <a href="https://dplyr.tidyverse.org/" target="_blank"><img style="margin: 10px" src="https://d33wubrfki0l68.cloudfront.net/621a9c8c5d7b47c4b6d72e8f01f28d14310e8370/193fc/css/images/hex/dplyr.png" alt="dplyr" height="75" /></a>
 <a href="https://ggplot2.tidyverse.org/" target="_blank"><img style="margin: 10px" src="https://d33wubrfki0l68.cloudfront.net/2c6239d311be6d037c251c71c3902792f8c4ddd2/12f67/css/images/hex/ggplot2.png" alt="ggplot" height="75" /></a>
@@ -64,13 +64,23 @@
 
 ### Softwares  
 <div align="center">
-<a href="https://qgis.org/en/site/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" height="75" /></a> 
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="75" /></a>  
+<a href="https://qgis.org/en/site/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" height="75" /></a>
+<a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank"><img style="margin: 10px" src="https://www.vhv.rs/dpng/d/295-2958586_transparent-arcgis-logo-png-arcgis-pro-logo-png.png" alt="ArcGIS Pro" height="75" /></a>  
+
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="75" /></a>
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="75" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="75" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="75" /></a>  
+  
+<a href="https://www.autodesk.com/products/autocad/overview" target="_blank"><img style="margin: 10px" src="https://blogs.autodesk.com/autocad/wp-content/uploads/sites/35/2022/06/16/autodesk-autocad-small_social-400.png" alt="AutoCAD" height="75" /></a>
+<a href="http://www.sketchup.com/" target="_blank"><img style="margin: 10px" src="http://www.sketchup.com/themes/sketchup_www_terra/images/SketchUp-Horizontal-RGB.svg" alt="SketchUp" height="75" /></a>  
+
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="75" /></a>
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="75" /></a>
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="InDesign" height="75" /></a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="75" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="75" /></a>  
+
+<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" alt="Word" height="75" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" height="75" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Powerpoint_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Powerpoint_%282019%E2%80%93present%29.svg.png" alt="Powerpoint" height="75" /></a>
 </div>
 
 </td><td valign="top" width="33%">
