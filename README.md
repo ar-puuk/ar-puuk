@@ -80,7 +80,7 @@
 
 <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" alt="Word" height="75" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" height="75" /></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Powerpoint_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Powerpoint_%282019%E2%80%93present%29.svg.png" alt="Powerpoint" height="75" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="Powerpoint" height="75" /></a>
 </div>
 
 </td><td valign="top" width="33%">
