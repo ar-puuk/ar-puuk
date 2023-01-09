@@ -107,7 +107,7 @@
 
 
 ---
-[![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp; [![alt text][4.1]][4]&nbsp; [![alt text][5.1]][5]&nbsp; [![alt text][6.1]][6]&nbsp; [![alt text][7.1]][7]
+[![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp; [![alt text][4.1]][4]&nbsp; [![alt text][5.1]][5]&nbsp; [![alt text][6.1]][6]&nbsp; [![alt text][7.1]][7]&nbsp; [![alt text][8.1]][8]
   
 <!-- social icons-->
 [1.1]: icons/twitter-4-32.png
@@ -116,7 +116,8 @@
 [4.1]: icons/youtube-4-32.png
 [5.1]: icons/instagram-4-32.png
 [6.1]: icons/facebook-4-32.png
-[7.1]: icons/envelope-closed-32.png
+[7.1]: icons/mastodon-4-32.png
+[8.1]: icons/envelope-closed-32.png
 
 
 <!-- links to social-->
@@ -126,7 +127,8 @@
 [4]: https://youtube.com/@arpuuk
 [5]: https://www.instagram.com/ar_puuk/
 [6]: https://www.facebook.com/arpuuk/
-[7]: mailto:pukar.bhandari@outlook.com
+[7]: https://urbanists.social/@arpuuk
+[8]: mailto:pukar.bhandari@outlook.com
 
 <!---
 ar-puuk/ar-puuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
