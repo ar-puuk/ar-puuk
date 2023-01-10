@@ -67,7 +67,7 @@
 <a href="https://qgis.org/en/site/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" height="75" /></a>
 <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank"><img style="margin: 10px" src="https://www.vhv.rs/dpng/d/295-2958586_transparent-arcgis-logo-png-arcgis-pro-logo-png.png" alt="ArcGIS Pro" height="75" /></a>  
 
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="75" /></a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Power BI" height="75" /></a>
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="75" /></a>  
   
 <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"><img style="margin: 10px" src="https://blogs.autodesk.com/autocad/wp-content/uploads/sites/35/2022/06/16/autodesk-autocad-small_social-400.png" alt="AutoCAD" height="75" /></a>
