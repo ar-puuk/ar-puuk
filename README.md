@@ -45,8 +45,8 @@
 <a href="https://geopandas.org/" target="_blank"><img style="margin: 10px" src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="GeoPandas" height="75" /></a>
 <!---
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="75" 
+/></a>
 --->
-/></a>  
 
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="70" /></a>
 <a href="https://www.tidyverse.org/" target="_blank"><img style="margin: 10px" src="https://www.tidyverse.org/images/hex-tidyverse.png" alt="Tidyverse" height="75" /></a>
