@@ -7,10 +7,11 @@
 
 # 💫 About Me:
 - 🔭 I’m interested in Geospatial Data Analysis and Transportation.<br>
-- 👯 I’m looking to collaborate on Transportation Data Analysis.<br>
-- 🤝 I’m looking for help with R and Python.<br>
 - 🌱 I’m currently studying Master of City & Regional Planning at the University of Utah.<br>
-- 💬 Reach me at:  [pukar.bhandari@outlook.com](mailto:pukar.bhandari@outlook.com)
+- 🤝 I’m interested in learning R, Python, and SQL.<br>
+- 👯 I’m looking to collaborate on Transportation Data Analysis.<br>
+- 🌐 Please visit [bhandaripukar.com.np](https://bhandaripukar.com.np) to view my full portfolio.<br>
+- 💬 Reach me at:  [pukar.bhandari@outlook.com](mailto:pukar.bhandari@outlook.com)<br>
 
 ```
                                 ###&&&&&&&&&@@@@@@@@@@@@@@@@@@@@&##BBBG##B@@@@@@@@@@@@@@@@@@@@@@@@@@@
