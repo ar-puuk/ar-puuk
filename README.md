@@ -109,13 +109,13 @@
 ### Softwares  
 <div align="center">
 <a href="https://qgis.org/en/site/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" height="50" /></a>
-<a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank"><img style="margin: 10px" src="https://www.vhv.rs/dpng/d/295-2958586_transparent-arcgis-logo-png-arcgis-pro-logo-png.png" alt="ArcGIS Pro" height="50" /></a>  
+<a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank"><img style="margin: 10px" src="https://spatialvision.com.au/wp-content/uploads/2021/05/Transition-to-ArcGIS-Pro-1030x1030.png" alt="ArcGIS Pro" height="50" /></a>  
 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Power BI" height="50" /></a>
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
   
 <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"><img style="margin: 10px" src="https://blogs.autodesk.com/autocad/wp-content/uploads/sites/35/2022/06/16/autodesk-autocad-small_social-400.png" alt="AutoCAD" height="50" /></a>
-<a href="http://www.sketchup.com/" target="_blank"><img style="margin: 10px" src="http://www.sketchup.com/themes/sketchup_www_terra/images/SketchUp-Horizontal-RGB.svg" alt="SketchUp" height="50" /></a>  
+<a href="http://www.sketchup.com/" target="_blank"><img style="margin: 10px" src="https://www.sketchupaustralia.com.au/wp-content/uploads/SketchUp-Mark-1200pxl-RGB-941x1024.png" alt="SketchUp" height="50" /></a>  
 
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="InDesign" height="50" /></a>
