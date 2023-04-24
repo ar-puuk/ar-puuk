@@ -78,8 +78,9 @@
 <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="Matplotlib" height="50" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" alt="Seaborn" height="50" /></a>
 <a href="https://geopandas.org/" target="_blank"><img style="margin: 10px" src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="GeoPandas" height="50" /></a>
+<a href="https://geopandas.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg" alt="SciKit-Learn" height="50" /></a>
 <!---
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" 
+<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" 
 /></a>
 --->
 
