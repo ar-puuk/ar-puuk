@@ -7,7 +7,8 @@
 
 # 💫 About Me:
 - 🔭 I’m interested in Geospatial Data Analysis and Transportation.<br>
-- 🌱 I’m currently studying Master of City & Regional Planning at the University of Utah.<br>
+- 🌱 I’m a Master of City & Regional Planning graduate from the University of Utah.<br>
+- 🚗 I’m currently working as a Transportation Analyst at Metro Analytics based in Atlanta, GA.<br>
 - 🤝 I’m interested in learning R, Python, and SQL.<br>
 - 👯 I’m looking to collaborate on Transportation Data Analysis.<br>
 - 🌐 Please visit [bhandaripukar.com.np](https://bhandaripukar.com.np) to view my full portfolio.<br>
@@ -93,12 +94,15 @@
 <a href="https://dplyr.tidyverse.org/" target="_blank"><img style="margin: 10px" src="https://d33wubrfki0l68.cloudfront.net/621a9c8c5d7b47c4b6d72e8f01f28d14310e8370/193fc/css/images/hex/dplyr.png" alt="dplyr" height="50" /></a>
 <a href="https://ggplot2.tidyverse.org/" target="_blank"><img style="margin: 10px" src="https://d33wubrfki0l68.cloudfront.net/2c6239d311be6d037c251c71c3902792f8c4ddd2/12f67/css/images/hex/ggplot2.png" alt="ggplot" height="50" /></a>
 <a href="https://r-spatial.github.io/sf/" target="_blank"><img style="margin: 10px" src="https://rgeomatic.hypotheses.org/files/2021/02/card_logo-1038x576.png" alt="sf" height="50" /></a>
+<a href="https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/rstudio/shiny/blob/main/man/figures/logo.png" alt="rshiny" height="50" /></a>
 <a href="https://www.jstatsoft.org/article/view/v084i06" target="_blank"><img style="margin: 10px" src="http://rzine.fr/publication/20180420_tmap_package/featured.png" alt="tmap" height="50" /></a>
 <a href="https://www.rayshader.com/" target="_blank"><img style="margin: 10px" src="https://www.rayshader.com/reference/figures/raylogosmall.png" alt="Rayshader" height="50" /></a>  
 
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+<!---
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+--->
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 </div>
 
