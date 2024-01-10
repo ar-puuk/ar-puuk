@@ -94,7 +94,7 @@
 <a href="https://dplyr.tidyverse.org/" target="_blank"><img style="margin: 10px" src="https://d33wubrfki0l68.cloudfront.net/621a9c8c5d7b47c4b6d72e8f01f28d14310e8370/193fc/css/images/hex/dplyr.png" alt="dplyr" height="50" /></a>
 <a href="https://ggplot2.tidyverse.org/" target="_blank"><img style="margin: 10px" src="https://d33wubrfki0l68.cloudfront.net/2c6239d311be6d037c251c71c3902792f8c4ddd2/12f67/css/images/hex/ggplot2.png" alt="ggplot" height="50" /></a>
 <a href="https://r-spatial.github.io/sf/" target="_blank"><img style="margin: 10px" src="https://rgeomatic.hypotheses.org/files/2021/02/card_logo-1038x576.png" alt="sf" height="50" /></a>
-<a href="https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/rstudio/shiny/blob/main/man/figures/logo.png" alt="rshiny" height="50" /></a>
+<a href="https://shiny.posit.co/r/getstarted/shiny-basics/lesson1" target="_blank"><img style="margin: 10px" src="https://github.com/rstudio/shiny/blob/main/man/figures/logo.png" alt="rshiny" height="50" /></a>
 <a href="https://www.jstatsoft.org/article/view/v084i06" target="_blank"><img style="margin: 10px" src="http://rzine.fr/publication/20180420_tmap_package/featured.png" alt="tmap" height="50" /></a>
 <a href="https://www.rayshader.com/" target="_blank"><img style="margin: 10px" src="https://www.rayshader.com/reference/figures/raylogosmall.png" alt="Rayshader" height="50" /></a>  
 
@@ -118,7 +118,7 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Power BI" height="50" /></a>
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
   
-<a href="https://www.autodesk.com/products/autocad/overview" target="_blank"><img style="margin: 10px" src="https://blogs.autodesk.com/autocad/wp-content/uploads/sites/35/2022/06/16/autodesk-autocad-small_social-400.png" alt="AutoCAD" height="50" /></a>
+<a href="https://www.autodesk.com/products/autocad/overview" target="_blank"><img style="margin: 10px" src="https://www.softexia.com/wp-content/uploads/2022/03/Autodesk-AutoCAD-logo-256x256.png" alt="AutoCAD" height="50" /></a>
 <a href="http://www.sketchup.com/" target="_blank"><img style="margin: 10px" src="https://www.sketchupaustralia.com.au/wp-content/uploads/SketchUp-Mark-1200pxl-RGB-941x1024.png" alt="SketchUp" height="50" /></a>  
 
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>
@@ -133,7 +133,9 @@
 </td><td valign="top" width="33%">
 
 ### Spotify  
+<!---
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mzy3vszvpt2g26zy3un5kgwxli&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false" align="center" style="width: 100%" />
+--->
 
 </td></tr></table>  
 
