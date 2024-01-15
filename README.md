@@ -69,7 +69,7 @@
 </div>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="60%">
 
 ### Programming  
 <div align="center">  
@@ -106,7 +106,7 @@
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%">
 
 
 
@@ -130,16 +130,17 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="Powerpoint" height="50" /></a>
 </div>
 
+<!---
 </td><td valign="top" width="33%">
 
 ### Spotify  
-<!---
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mzy3vszvpt2g26zy3un5kgwxli&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false" align="center" style="width: 100%" />
---->
+
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
+--->
 </td></tr></table>  
 
 <br/>  
