@@ -94,9 +94,11 @@
 <a href="https://dplyr.tidyverse.org/" target="_blank"><img style="margin: 10px" src="https://d33wubrfki0l68.cloudfront.net/621a9c8c5d7b47c4b6d72e8f01f28d14310e8370/193fc/css/images/hex/dplyr.png" alt="dplyr" height="50" /></a>
 <a href="https://ggplot2.tidyverse.org/" target="_blank"><img style="margin: 10px" src="https://d33wubrfki0l68.cloudfront.net/2c6239d311be6d037c251c71c3902792f8c4ddd2/12f67/css/images/hex/ggplot2.png" alt="ggplot" height="50" /></a>
 <a href="https://r-spatial.github.io/sf/" target="_blank"><img style="margin: 10px" src="https://rgeomatic.hypotheses.org/files/2021/02/card_logo-1038x576.png" alt="sf" height="50" /></a>
-<a href="https://shiny.posit.co/r/getstarted/shiny-basics/lesson1" target="_blank"><img style="margin: 10px" src="https://github.com/rstudio/shiny/blob/main/man/figures/logo.png" alt="rshiny" height="50" /></a>
-<a href="https://www.jstatsoft.org/article/view/v084i06" target="_blank"><img style="margin: 10px" src="http://rzine.fr/publication/20180420_tmap_package/featured.png" alt="tmap" height="50" /></a>
 <a href="https://www.rayshader.com/" target="_blank"><img style="margin: 10px" src="https://www.rayshader.com/reference/figures/raylogosmall.png" alt="Rayshader" height="50" /></a>  
+<a href="https://shiny.posit.co/r/getstarted/shiny-basics/lesson1" target="_blank"><img style="margin: 10px" src="https://github.com/rstudio/shiny/blob/main/man/figures/logo.png" alt="r-shiny" height="50" /></a>
+<a href="https://quarto.org/" target="_blank"><img style="margin: 10px" src="https://quarto-dev.github.io/quarto-r/logo.png" alt="r-quarto" height="50" /></a>
+<a href="https://www.jstatsoft.org/article/view/v084i06" target="_blank"><img style="margin: 10px" src="http://rzine.fr/publication/20180420_tmap_package/featured.png" alt="tmap" height="50" /></a>
+
 
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
