@@ -2,18 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%, height: 50%" />
 </div>  
 
-<h1 align="center">Hi 👋, I'm Pukar Bhandari</h1>
-<h3 align="center">I am a city planning enthusiast with particular interest in transportation and geospatial analysis.</h3>
-
-# 💫 About Me:
-- 🔭 I’m interested in Geospatial Data Analysis and Transportation.<br>
-- 🌱 I’m a Master of City & Regional Planning graduate from the University of Utah.<br>
-- 🚗 I’m currently working as a Transportation Analyst at Metro Analytics based in Atlanta, GA.<br>
-- 🤝 I’m interested in learning R, Python, and SQL.<br>
-- 👯 I’m looking to collaborate on Transportation Data Analysis.<br>
-- 🌐 Please visit [bhandaripukar.com.np](https://bhandaripukar.com.np) to view my full portfolio.<br>
-- 💬 Reach me at:  [pukar.bhandari@outlook.com](mailto:pukar.bhandari@outlook.com)<br>
-
 ```
                                 ###&&&&&&&&&@@@@@@@@@@@@@@@@@@@@&##BBBG##B@@@@@@@@@@@@@@@@@@@@@@@@@@@
                                 ###&&&&&&&&@@@@@@@@@@@@@@&BPJ!^:.......:^!7&@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -48,6 +36,20 @@
                                 PPPPPPPPY.. ..::....::::..:::::....::::::::::::::::::........:.......
                                 GGGGGGGG7....::.......::..::::..:.:::::::::::.:::::::........:.......
 ```
+
+<h1 align="center">Hi 👋, I'm Pukar Bhandari</h1>
+<h3 align="center">I am a city planning enthusiast with particular interest in transportation and geospatial analysis.</h3>
+
+# 💫 About Me:
+- 🔭 I’m interested in Geospatial Data Analysis and Transportation.<br>
+- 🌱 I’m a Master of City & Regional Planning graduate from the University of Utah.<br>
+- 🚗 I’m currently working as a Transportation Analyst at Metro Analytics based in Atlanta, GA.<br>
+- 🤝 I’m interested in learning R, Python, and SQL.<br>
+- 👯 I’m looking to collaborate on Transportation Data Analysis.<br>
+- 🌐 Please visit [bhandaripukar.com.np](https://bhandaripukar.com.np) to view my full portfolio.<br>
+- 💬 Reach me at:  [pukar.bhandari@outlook.com](mailto:pukar.bhandari@outlook.com)<br>
+
+
     
 ## 🌐 Connect with me: 
 <div align="center">
